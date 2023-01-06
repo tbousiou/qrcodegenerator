@@ -1,0 +1,10 @@
+:root {
+    --bs-body-bg: #f1f1f1;
+}
+
+#qr-image img {
+    display: inline-block !important;
+    padding: 8px;
+    max-width: 256px;
+    border: 1px solid gray;
+}
